@@ -1,0 +1,30 @@
+h1 {
+    text-align: right;
+   
+}
+
+#encabezado{
+    color: red;
+    font-family: sans-serif;
+}
+
+body{
+    background-color: rgb(169, 169, 236);
+}
+
+.negrita{
+    color: orangered;
+    font-weight: bolder;
+}
+.naranja{
+    color: orange;
+}
+
+.verde{
+    color: green;
+    background-color: white;
+    
+}
+#center{
+    text-align: center;
+}

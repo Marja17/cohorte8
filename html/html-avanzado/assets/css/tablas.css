@@ -1,0 +1,12 @@
+table, tr, th, td{
+    border: 1px solid black;
+    background-color: crimson;
+}
+
+th{
+    background-color: cadetblue;
+}
+
+td{
+    background-color: blueviolet;
+}

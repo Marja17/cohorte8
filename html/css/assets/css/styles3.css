@@ -1,0 +1,60 @@
+body{
+    background-color:rgb(20, 134, 87);
+}
+h1{
+    color: white;
+    font-size: 2cm;
+}
+.caja {
+    width: 900px;
+    height: 70px;
+    align-items: center;
+    font-size: 25px;
+    
+  
+}
+
+.blanca{
+    background-color: white;
+    border: 10px solid black;
+    margin-left: 500px;
+    border-radius: 500px;
+    padding: 10px;
+    text-align: center;
+    
+    
+
+}
+ .naranja{
+    background-color: rgb(236, 95, 29);
+    border: 10px solid rgb(173, 69, 20);
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+    padding: 10px;
+    text-align: center;
+    color: white;
+
+ }
+
+ .amarilla{
+    background-color: rgba(243, 132, 4, 0.568);
+    border: 10px solid rgb(226, 226, 63);
+    align-items: center;
+    margin-left: 900px;
+    border-top-right-radius: 15px ;
+    border-bottom-right-radius: 15px;
+    padding: 10px;
+    text-align: center;
+    color: white;
+
+ }
+
+ .azul{
+    background-color: blue;
+    border: 10px dashed rgb(63, 63, 185);
+    align-items: center;
+    margin-left: 500px;
+    padding: 10px;
+    text-align: center;
+     color: white;
+ }

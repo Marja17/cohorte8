@@ -1,0 +1,41 @@
+
+    /*Darle tamaño a un archivo, tiene que estar dirigido a un elemento, se utiliza un codigo de color
+    medidas comunes: px, %, em, rem */
+    .encabezado {
+        font-size: 72px;
+        color: #DC143C;
+        /*Es para el color de fondo*/
+        background-color:#88695e;
+        text-align: center;
+        /*capitalize, uppercase, lowercase*/
+        text-transform: uppercase;
+    }
+        body{
+            background-color: #FF69B4;
+            
+
+        }
+
+        #texto {
+
+            color: white;
+            background-color: violet;
+            font-size: 24px;
+            font-style: italic;
+
+
+
+        }
+        .texto {
+            color: white;
+            background-color: yellowgreen;
+        }
+p{
+    color: azure;
+    background-color: purple;
+}
+    
+p{
+    color: rebeccapurple;
+    background-color: salmon;
+}

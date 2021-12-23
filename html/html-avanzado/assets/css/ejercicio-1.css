@@ -1,0 +1,80 @@
+.formulario{
+    
+
+    background-color: green;
+    color: white;
+    border:10px solid aquamarine;
+    width: 450px;
+    height: 450px;
+    margin: auto;
+    font-size: 10px;
+    font-family: 'Times New Roman', Times,
+
+
+     
+    
+
+}
+
+.sub{
+
+    margin: 30px; 
+    padding-left: 50px;
+    
+}
+
+.primera{
+   
+    margin: 2px; 
+    padding-left: 130px;
+    word-spacing: 15px;
+    box-sizing: 10px;
+    display: inline-block;
+    display: block;
+    
+
+}
+
+.segunda{
+
+    
+    margin: 2px; 
+    padding-left: 130px;
+    word-spacing: 15px;
+    box-sizing: 10px;
+    display: inline-block;
+    display: block;
+   
+   
+
+
+}
+
+p{
+    margin: 30px; 
+    padding-left: 50px;
+
+}
+
+#boton{
+    margin: 20px; 
+    padding-left: 50px;
+
+}
+
+.datos{
+
+    display: inline-block;
+width: 80px;
+
+}
+
+::placeholder {
+    color: gray;
+    font-size: 10px;
+  }
+
+  .recuadro{
+    border: 2px solid red;
+    margin-left: red ;
+  }

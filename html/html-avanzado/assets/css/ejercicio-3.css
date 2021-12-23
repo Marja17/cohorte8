@@ -1,0 +1,16 @@
+h1{
+    font-size: 20px;
+    text-align: center;
+
+}
+
+table ,  tr, th, td{
+
+    border-left: solid 1px gray;
+    border-top-left-radius: solid 1px gray; ;
+    border-right: 1px black solid;
+    border-bottom-right-radius: 1px black solid;
+    margin: auto;
+    border-top: solid 1px gray;
+    border-bottom: 1px solid black;
+}

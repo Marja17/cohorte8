@@ -1,0 +1,43 @@
+body{
+    background-color: turquoise;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+
+}
+
+h1{
+    font-size: 25px;
+    text-align: center;
+}
+
+.Individual{
+    color: red
+}
+
+table,  tr, th, td{
+    border: 1px solid black;
+    margin: auto;
+font-size: small;
+
+}
+
+.perrito{
+    font-weight:bolder;
+}
+
+.siete{
+    color: greenyellow
+}
+
+.naranja{
+    background-color: orangered;
+}
+
+.negro{
+    background-color: black;
+}
+
+.verde{
+    background-color: greenyellow;
+}

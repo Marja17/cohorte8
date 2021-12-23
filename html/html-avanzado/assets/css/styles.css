@@ -1,0 +1,12 @@
+.formulario{
+    border: 1px solid rebeccapurple;
+}
+.clase_nombre{
+    background-color: royalblue
+    border 2px solid blueviolet;
+    border-radius: 1px;
+}
+#password{
+    border: 1px solid greenyellow
+}
+
